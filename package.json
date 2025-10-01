@@ -1,0 +1,22 @@
+{
+  "name": "v8automation",
+  "version": "1.0.0",
+  "description": "TRAINING REPOSITORY FOR QA V8",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qafranklin/V8AUTOMATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qafranklin/V8AUTOMATION/issues"
+  },
+  "homepage": "https://github.com/qafranklin/V8AUTOMATION#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.1"
+  }
+}
